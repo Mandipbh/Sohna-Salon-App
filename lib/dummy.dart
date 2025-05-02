@@ -15,7 +15,7 @@ final dummyDrawer = {
     'FAQs',
     'Location',
     'About',
-    'Developer',
+    // 'Developer',
   ],
 };
 

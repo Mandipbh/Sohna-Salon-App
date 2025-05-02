@@ -75,10 +75,10 @@ class _SplashScreenState extends State<SplashScreen> {
                 width: screenSize.width * 0.4,
                 child: Image.asset('assets/images/logo.png'),
               ),
-              LoadingAnimationWidget.prograssiveDots(
-                color: Theme.of(context).colorScheme.onPrimary,
-                size: screenSize.height * 0.12,
-              )
+              // LoadingAnimationWidget.prograssiveDots(
+              //   color: Theme.of(context).colorScheme.onPrimary,
+              //   size: screenSize.height * 0.12,
+              // )
             ],
           ),
         ),
